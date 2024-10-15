@@ -1,4 +1,4 @@
-# MediCare (HealthCare Support Platform)
+# MediCare - HealthCare Management Platform
 
 ## Table of Contents
 
