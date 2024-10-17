@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The **Medi-Connect - HealthCare Management Platform** is a secure platform designed to store, share, and manage medical prescriptions and reports. It includes a role-based access system using JWT, ensuring the protection of sensitive medical data. Additional features include a real-time community chat system and quick patient record access via QR code scanning.
+The **MediCare - HealthCare Management Platform** is a secure platform designed to store, share, and manage medical prescriptions and reports. It includes a role-based access system using JWT, ensuring the protection of sensitive medical data. Additional features include a real-time community chat system and quick patient record access via QR code scanning.
 <br>
 
 <!--Line-->
